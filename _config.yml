@@ -29,8 +29,7 @@ tagline: I will die up on that hill   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+
 
 github:
   username: etemesi254             # change to your github username
