@@ -11,7 +11,7 @@ categories: gsoc-2022
 > A working ffmpeg implementation used to produce image samples can be found [here](https://github.com/etemesi254/FFmpeg)
 {:.prompt-tip }
 
-The recently concluded Google Summer of Code program saw me participating in adding a high-throughput jpeg2000 decoder for ffmpeg.
+The recently concluded Google Summer of Code program saw me participating in adding a high-throughput jpeg2000 decoder for ffmpeg and this is my writeup on experiences gained during that period.
 
 ## Background and motivation
 
