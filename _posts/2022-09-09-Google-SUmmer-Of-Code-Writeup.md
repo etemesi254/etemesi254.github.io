@@ -109,7 +109,7 @@ Thanks to Osamu Watanabe for releasing his own implementation of a HT decoder, @
 
 Thanks to Aous T. Naman who made time to answer my questions both in the discord chat and in video meetings, your input was valuable.
 
-And thanks to everyones who made this possible.
+And thanks to everyone who made this possible.
 
 ## References
 
