@@ -33,8 +33,9 @@ Currently, benchmarks are ran on my machine, but will hopefully soon move to a c
 1st April 2023
 
 ## Quirks
+
 - spng uses zlib-ng instead of default zlib
--
+
 ## Replicating
 The command to create this is as follows
 
