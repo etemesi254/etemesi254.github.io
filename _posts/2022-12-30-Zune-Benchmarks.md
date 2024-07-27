@@ -30,7 +30,7 @@ Currently, benchmarks are ran on my machine, but will hopefully soon move to a c
 [here]
 
 ## Last Update Time
-1st April 2023
+27th July 2024
 
 ## Quirks
 
